@@ -1,0 +1,132 @@
+"15667" : {"countIn" : "N", "countOut" : "S"}
+"15668" : {"countIn" : "W", "countOut" : "E"}
+"15669" : {"countIn" : "E", "countOut" : "W"}
+"15670" : {"countIn" : "S", "countOut" : "N"}
+"15671" : {"countIn" : "W", "countOut" : "E"}
+"16671" : {"countIn" : "W", "countOut" : "E"}
+"13224" : {"countIn" : "NE", "countOut" : "SW"}
+"13225" : {"countIn" : "S", "countOut" : "N"}
+"13223" : {"countIn" : "W", "countOut" : "E"}
+"13222" : {"countIn" : "S", "countOut" : "N"}
+"13226" : {"countIn" : "N", "countOut" : "S"}
+"13227" : {"countIn" : "E", "countOut" : "W"}
+"13228" : {"countIn" : "N", "countOut" : "S"}
+"13230" : {"countIn" : "E"}
+"13231" : {"countOut" : "W"}
+"13232" : {"countIn" : "S", "countOut" : "N"}
+"13235" : {"countIn" : "E", "countOut" : "W"}
+"13234" : {"countIn" : "N", "countOut" : "S"}
+"13233" : {"countIn" : "NW", "countOut" : "SE"}
+"13236" : {"countIn" : "W", "countOut" : "E"}
+"13237" : {"countIn" : "E", "countOut" : "W"}
+"956" : {"countIn" : "SE", "countOut" : "N"}
+"959" : {"countIn" : "S", "countOut" : "W"}
+"960" : {"countIn" : "W", "countOut" : "E"}
+"961" : {"countIn" : "SW", "countOut" : "NE"}
+"962" : {"countIn" : "N", "countOut" : "S"}
+"13690" : {"countIn" : "SE", "countOut" : "NW"}
+"13691" : {"countIn" : "SW", "countOut" : "NE"}
+"13692" : {"countIn" : "E", "countOut" : "W"}
+"13693" : {"countIn" : "E", "countOut" : "W"}
+"13694" : {"countIn" : "S", "countOut" : "N"}
+"13695" : {"countIn" : "SE", "countOut" : "NW"}
+"13789" : {"countOut" : "E"}
+"13809" : {"countOut" : "E"}
+"13810" : {"countIn" : "W"}
+"14117" : {"countIn" : "N"}
+"14118" : {"countOut" : "S"}
+"14128" : {"countIn" : "E", "countOut" : "W"}
+"14129" : {"countIn" : "W"}
+"14130" : {"countOut" : "E"}
+"14131" : {"countIn" : "N"}
+"14132" : {"countOut" : "S"}
+"14149" : {"countIn" : "S"}
+"14150" : {"countOut" : "N"}
+"14993" : {"countIn" : "S", "countOut" : "N"}
+"15065" : {"countIn" : "NW", "countOut" : "SE"}
+"15114" : {"countIn" : "S", "countOut" : "N"}
+"15115" : {"countIn" : "SE", "countOut" : "NW"}
+"15116" : {"countIn" : "SE", "countOut" : "NW"}
+"15117" : {"countIn" : "E", "countOut" : "W"}
+"15118" : {"countIn" : "SE", "countOut" : "NW"}
+"15119" : {"countIn" : "SE", "countOut" : "NW"}
+"15120" : {"countIn" : "SE", "countOut" : "NW"}
+"15135" : {"countIn" : "W", "countOut" : "E"}
+"15136" : {"countIn" : "W", "countOut" : "E"}
+"15137" : {"countIn" : "SW", "countOut" : "NE"}
+"15138" : {"countIn" : "S", "countOut" : "N"}
+"15804" : {"countIn" : "W", "countOut" : "E"}
+"15805" : {"countIn" : "W", "countOut" : "E"}
+"15812" : {"countIn" : "S", "countOut" : "N"}
+"15813" : {"countIn" : "S", "countOut" : "N"}
+"15814" : {"countIn" : "S", "countOut" : "N"}
+"15815" : {"countIn" : "N", "countOut" : "S"}
+"15816" : {"countIn" : "N", "countOut" : "S"}
+"15817" : {"countIn" : "N", "countOut" : "S"}
+"15818" : {"countOut" : "W"}
+"15819" : {"countIn" : "E"}
+"15820" : {"countIn" : "E", "countOut" : "W"}
+"15821" : {"countIn" : "E", "countOut" : "W"}
+"15823" : {"countOut" : "E"}
+"15824" : {"countIn" : "W"}
+"15825" : {"countOut" : "E"}
+"15826" : {"countIn" : "W"}
+"15827" : {"countOut" : "E"}
+"15828" : {"countIn" : "W"}
+"15829" : {"countIn" : "W", "countOut" : "E"}
+"15830" : {"countOut" : "E"}
+"15831" : {"countIn" : "W"}
+"15832" : {"countIn" : "E", "countOut" : "W"}
+"16171" : {"countIn" : "N", "countOut" : "S"}
+"16173" : {"countIn" : "E", "countOut" : "W"}
+"16174" : {"countIn" : "S", "countOut" : "N"}
+"16175" : {"countOut" : "N"}
+"16177" : {"countIn" : "E", "countOut" : "W"}
+"16178" : {"countOut" : "S"}
+"16179" : {"countIn" : "N"}
+"16180" : {"countOut" : "E"}
+"16181" : {"countIn" : "W"}
+"16645" : {"countIn" : "N"}
+"16646" : {"countOut" : "S"}
+"16648" : {"countIn" : "E", "countOut" : "W"}
+"16664" : {"countIn" : "E", "countOut" : "W"}
+"16665" : {"countIn" : "NE", "countOut" : "SW"}
+"16666" : {"countIn" : "SW", "countOut" : "NE"}
+"16675" : {"countIn" : "E", "countOut" : "W"}
+"19501" : {"countIn" : "NE", "countOut" : "SW"}
+"19502" : {"countIn" : "NE", "countOut" : "SW"}
+"19493" : {"countIn" : "NW", "countOut" : "SE"}
+"19494" : {"countIn" : "NW", "countOut" : "SE"}
+"19495" : {"countIn" : "S", "countOut" : "N"}
+"19496" : {"countIn" : "S", "countOut" : "N"}
+"19497" : {"countIn" : "SW", "countOut" : "NE"}
+"19498" : {"countIn" : "SW", "countOut" : "NE"}
+"19499" : {"countIn" : "N", "countOut" : "S"}
+"19500" : {"countIn" : "N", "countOut" : "S"}
+"21828" : {"countIn" : "NW"}
+"21829" : {"countIn" : "NW", "countOut" : "SE"}
+"21830" : {"countIn" : "S", "countOut" : "N"}
+"21831" : {"countIn" : "S"}
+"21832" : {"countOut" : "NE"}
+"21833" : {"countOut" : "NE"}
+"21834" : {"countIn" : "N", "countOut" : "S"}
+"21835" : {"countIn" : "NE", "countOut" : "SW"}
+"21836" : {"countIn" : "NE", "countOut" : "SW"}
+"23413" : {"countIn" : "S", "countOut" : "N"}
+"23414" : {"countIn" : "S", "countOut" : "N"}
+"23415" : {"countIn" : "S", "countOut" : "N"}
+"23814" : {"countIn" : "W", "countOut" : "E"}
+"23815" : {"countIn" : "W", "countOut" : "E"}
+"40277" : {"countIn" : "W", "countOut" : "E"}
+"40279" : {"countIn" : "W", "countOut" : "E"}
+"40280" : {"countIn" : "S", "countOut" : "N"}
+"40281" : {"countIn" : "S", "countOut" : "N"}
+"40282" : {"countIn" : "NW", "countOut" : "SE"}
+"40283" : {"countIn" : "W", "countOut" : "E"}
+"40284" : {"countIn" : "SE", "countOut" : "NW"}
+"40285" : {"countIn" : "SE", "countOut" : "NW"}
+"40286" : {"countIn" : "SE", "countOut" : "NW"}
+"40287" : {"countIn" : "S", "countOut" : "N"}
+"42769" : {"countIn" : "NW", "countOut" : "SE"}
+"42770" : {"countIn" : "NW", "countOut" : "SE"}
+"42771" : {"countIn" : "NW", "countOut" : "SE"}
